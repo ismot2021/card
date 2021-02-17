@@ -1,0 +1,46 @@
+.menu{
+	background: #52608b;
+	padding: 21px;
+}
+nav{
+	display: block;
+	text-align: center;
+}
+.menu nav ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menu nav ul li{
+	display: inline-block;
+	
+}
+.menu nav ul li a{
+	color: #2cd024;
+	padding: 7px 15px;
+	font-size: 16px;
+	text-decoration: none;
+	background: #a36230;
+	border-radius: 8px;
+	font-family: tahoma;
+	font-weight: inherit;
+}
+.menu nav ul li a:hover{
+	background: #528b8b;
+	color: #d6dfdf;
+}
+
+img{
+	width: 100%;
+	background: #b7dfb5;
+}
+.box-area {
+    border: 1px solid #d6dad3;
+    margin-top: 28px;
+}
+.card-top {
+    padding-left: 13px;
+}
+.card-body {
+    padding: 10px;
+}
